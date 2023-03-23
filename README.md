@@ -16,13 +16,17 @@ Download the zip folder with the source code file, clone it into your machine, a
 
 ### Technologies and libraries used:
 
+- MongoDB
+- Express
 - React JS
+- Node
 - Formik
+- Docker
 - Java
 - Css
 - Html
 - Bootstrap
-
+- Toastify
 
 ### Functionalities available:
 
@@ -37,7 +41,6 @@ Download the zip folder with the source code file, clone it into your machine, a
 
 ### Future Adds
 
-- Implement Backend
 - Allow users to upload their own avatar
 
 ### Author

@@ -47,8 +47,8 @@ const AboutPopUp = ({ handleClose }) => {
                     </h5>
 
                     <h6>
-                      <a href="Insert GitHub Link Here when done pushing it to your GitHub">
-                      Insert GitHub Link Here when done pushing it to your GitHub  
+                      <a href="https://github.com/DaNiSchaefer1721/DaNi-Bad-Bank-Proj.git">
+                      Check out my GitHub! 
                       </a>
                     </h6>
                   </div>
